@@ -12,3 +12,5 @@ interphase microtubule growth rates and transiently increase the percentage of m
 have further verified our findings through the signature reversion paradigm (recently proposed in
 computational drug-discovery) on independent dataset derived from a large drug screening study.
 This repository contains all the code and data objects needed to reproduce the results presented in our paper and to run iNRG_cMap on user-defined cases.
+
+Project web-site: http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission
