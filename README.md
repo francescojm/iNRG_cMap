@@ -1,6 +1,8 @@
 # iNRG_cMap
 iterative NetwoRk Guided connectivity Mapping
 
+![alt tag](http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission/home_files/Screen%20Shot%202014-05-01%20at%201.58.48%20AM.jpg)
+
 Drug repositioning, whereby a drug prescribed to treat a given disease is approved to treat a new one, has
 gained increased interest in recent years. Various methods attempt to identify repositioning opportunities
 by analysing signatures of changes in gene expression induced by drugs, generally as ‘black-box’ tools to
