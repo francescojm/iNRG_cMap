@@ -1,2 +1,3 @@
 # iNRG_cMap
-Iterative Network Guided Connectivity Mapping
+iterative NetwoRk Guided connectivity Mapping
+
