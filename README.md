@@ -15,4 +15,6 @@ have further verified our findings through the signature reversion paradigm (rec
 computational drug-discovery) on independent dataset derived from a large drug screening study.
 This repository contains all the code and data objects needed to reproduce the results presented in our paper and to run iNRG_cMap on user-defined cases.
 
-Project web-site: http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission
+Give a look to the manual to start ()
+or visit the project web-site:
+http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission
